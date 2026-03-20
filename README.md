@@ -14,4 +14,4 @@ The model uses a multimodal architecture that combines a convolutional neural ne
 The results indicate that the model is capable of learning the relationship between image features and scan parameters to estimate appendix size. The best performance was achieved for the 80/20 and 60/40 train/test splits, suggesting that the model benefits from increased data availability. Across different experiments, the model produced stable and consistent predictions, and in several cases, the predicted values were closer to reference measurements than those measured manually by radiologists, indicating reduced variability.
 
 The table below shows a comparison of absolute errors between two radiologists and the model (for two best-performing configurations). The results demonstrate that the model achieves lower or comparable errors across most scan series.
-<img src="https://github.com/user-attachments/assets/ae45bb93-df48-44cd-a125-1c2f71aafbd3" width="500"/>
+<img src="https://github.com/user-attachments/assets/ae45bb93-df48-44cd-a125-1c2f71aafbd3" width="450">
